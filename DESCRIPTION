@@ -1,7 +1,7 @@
 Package: opusminer
 Type: Package
 Title: OPUS Miner Algorithm for Filtered Top-k Association Discovery
-Version: 0.1-0
+Version: 0.1-1
 Authors@R: c(
   person("Geoffrey I", "Webb", role = c("aut", "cph"), comment = "OPUS Miner algorithm and C++ implementation, http://i.giwebb.com/index.php/research/association-discovery/"),
   person("Christoph", "Bergmeir", email = "christoph.bergmeir@monash.edu", role = c("ctb", "cre")),
@@ -18,7 +18,7 @@ Imports: Rcpp (>= 0.12.9), arules (>= 1.5-0), Matrix (>= 1.2-7),
 LinkingTo: Rcpp
 RoxygenNote: 6.0.0
 NeedsCompilation: yes
-Packaged: 2017-02-16 08:01:34 UTC; Angus
+Packaged: 2020-02-03 22:16:35 UTC; bergmeir
 Author: Geoffrey I Webb [aut, cph] (OPUS Miner algorithm and C++
     implementation,
     http://i.giwebb.com/index.php/research/association-discovery/),
@@ -26,4 +26,4 @@ Author: Geoffrey I Webb [aut, cph] (OPUS Miner algorithm and C++
   Angus Dempster [ctb, cph] (R interface)
 Maintainer: Christoph Bergmeir <christoph.bergmeir@monash.edu>
 Repository: CRAN
-Date/Publication: 2017-02-16 12:32:12
+Date/Publication: 2020-02-03 23:10:02 UTC

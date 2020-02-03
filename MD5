@@ -1,4 +1,4 @@
-139f8cf3fb7632c6a3107d26d5f6620d *DESCRIPTION
+6afc7f23e75ed1f167e1acea9a876a14 *DESCRIPTION
 ae202634664cad136b278e8181c3ee3c *NAMESPACE
 9af4a02d3c613e281ee131c17f2b83fd *R/RcppExports.R
 939861498b81f4b930529bb1d1fe1063 *R/opusminer.R
@@ -22,7 +22,7 @@ cfe99db80f68b145619d796543c3e639 *src/fisher.h
 d9a315f3c1b104ccd06c9255c96c0bfe *src/itemQClass.h
 626484fd59e57a85991b39d91984d9f7 *src/itemset.cpp
 f9d1b9d7ad09581be0e12882e2e60127 *src/itemset.h
-8df4abda60ce149914e8a1b735e34dad *src/opus_miner.cpp
+d088fcde1d652b42b5bc77af2f39aba3 *src/opus_miner.cpp
 35523b344727c627587b706262c7d8c8 *src/opus_miner.h
 89e1e9fc46f0e4267a72362ed7d22e01 *src/print_itemsets.cpp
 41184bce2e3cd3f659decfafbacfc564 *src/print_itemsets.h
